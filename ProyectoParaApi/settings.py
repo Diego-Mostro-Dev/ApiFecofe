@@ -30,7 +30,8 @@ SECRET_KEY = 'django-insecure-+d!f9t1j6$fo*malgk8^c3-l8w8lus!e^*h*b@@dv7#&veskc!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['apifecofe.onrender.com', 'localhost', '127.0.0.1']
+
 
 
 # Application definition
